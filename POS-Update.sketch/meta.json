@@ -1,0 +1,178 @@
+{
+"commit":"13ee7447549da67c75f2ad3fe157bfb179c64f88",
+"pagesAndArtboards":{
+"B9D2F6F8-D24C-45F7-A318-9169CC94EB01":{
+"name":"Trash",
+"artboards":{
+"F9A9A1A0-AC83-4F10-AD35-771421CF78F5":{
+"name":"Config"
+}
+}
+},
+"6CBFED2E-487D-43BA-B077-E96675687702":{
+"name":"Page 1",
+"artboards":{
+"069343ED-0A86-4DA9-9237-9620AF4EB46D":{
+"name":"Order 2"
+},
+"3CA1635E-5401-4AE4-BDCA-F10C71086DA5":{
+"name":"Config v2"
+},
+"CB120C2D-46C8-455C-B05A-B86EF8B8E702":{
+"name":"POS Active"
+},
+"F195C4DD-9C22-4DD2-B721-9DB7C59CF125":{
+"name":"Config v3"
+},
+"A8F9055E-7738-48BB-90F6-A46E2150CB80":{
+"name":"POS Active 2"
+},
+"1F7E8A46-5616-4958-A20D-E0B1D08E879C":{
+"name":"Order"
+}
+}
+},
+"E77B763E-BC59-4384-B1D5-03226C63371B":{
+"name":"Symbols",
+"artboards":{
+"2C3113B4-2865-41B9-B22B-943544D2B344":{
+"name":"!_boarder_light"
+},
+"D2A9D7D8-8019-43DF-8212-339170AB9899":{
+"name":"atoms/switch-on copy 2"
+},
+"02ACE677-A9F5-4CC5-B96B-14478C8618E9":{
+"name":"keyboard_boarder_light 1"
+},
+"2C448D79-DA4D-4746-8BAD-E757B214C0D2":{
+"name":"Icons / Navigation 24px / White / Add"
+},
+"01E2CEE3-D291-4517-B908-19E99C750D3C":{
+"name":"atoms/switch-on"
+},
+"B373B62F-A7A5-412C-8936-3F8AAC989DF8":{
+"name":"numbers_boarder_light"
+},
+"446E2114-769B-4218-B704-FA7BEEED325A":{
+"name":"Icons / Navigation 24px / Grey / More"
+},
+"A135EEF6-3BF3-4289-87B8-3B7C09EB528F":{
+"name":"Elements / Dialogs & Cards / Card #2"
+},
+"832F47DA-CBC2-460F-B916-C30F33E90188":{
+"name":"key_boarder_light"
+},
+"B71CE71D-D17B-4B80-BC9F-71DA09C7F7A5":{
+"name":"key_boarder_no number_light 2"
+},
+"CCA208B7-0D0E-47F5-B73D-1518C8057586":{
+"name":"atoms/card-title"
+},
+"0CF71ECA-1307-4C4B-93AE-9F301FE67414":{
+"name":"!_boarder_light copy"
+},
+"B2EFC46A-3C78-4322-B6A5-A053EC1B1A94":{
+"name":"?_boarder_light copy"
+},
+"27DCF435-636D-4761-8F18-F44DA82220E5":{
+"name":"atoms/switch-on copy"
+},
+"398E0FF0-1048-4439-857F-F87E3C862E64":{
+"name":"Enter"
+},
+"E3760826-549C-415F-8451-D2534007A944":{
+"name":"Elements/Blank/24px"
+},
+"EBAEA938-0B90-4871-A0E7-16035D8595A6":{
+"name":"Buttons/FAB/Normal"
+},
+"765D3242-C75F-4C22-85B1-B4B0D53DF384":{
+"name":"Elements / Blank / Image 72x72"
+},
+"284C78BE-B698-4DFD-8FCF-079F50A33982":{
+"name":"atoms/tab-white-active"
+},
+"A21F29C3-FF71-4507-B728-C959393DA4E0":{
+"name":"._boarder_light"
+},
+"7D164B24-F832-4636-83B6-5BE9F5E385A8":{
+"name":"ic_delete_sweep_black_24px"
+},
+"DC81C2C2-1F19-4172-9C56-B88ED115EA8A":{
+"name":"key_boarder_light 1"
+},
+"C2E27713-1D35-414E-8523-2A5E613B5665":{
+"name":"key_boarder_no number_light"
+},
+"46A9ED4E-B4E7-4BCD-BFEB-AF7F0FE23AF2":{
+"name":"keyboard_boarder_light"
+},
+"7C4CBC89-3695-47BF-BE2A-CBB683C89C85":{
+"name":"molecules/chart-line"
+},
+"A208D28C-59D7-4E58-8F43-1A02111FB28D":{
+"name":"molecules/card-metric"
+},
+"E3693E17-F4BB-443D-BBE1-C355DB309E42":{
+"name":".com_boarder_light"
+},
+"0ADFAF69-85FB-4E75-9C58-5A0ADD628A54":{
+"name":"molecules/toolbar-split"
+},
+"451A7385-5B72-4FAC-ACA7-452E2EF4D9A9":{
+"name":"atoms/tab-white"
+},
+"A6885C19-3742-4077-8729-80ACA582EC44":{
+"name":"?_boarder_light"
+},
+"77585E64-20A7-4FDD-8838-2DAE72220EF1":{
+"name":"Caps_boarder_light"
+},
+"E581BE73-E5F6-4925-8003-47DCD5D5A437":{
+"name":"organisms/navigation-drawer"
+},
+"77FBA47D-0505-49D5-BEDB-07C2FFCFD8DF":{
+"name":"/_boarder_light"
+},
+"6FD344A1-3360-483E-B45A-59E96BDA3721":{
+"name":"Buttons/Raised/Dark/Normal"
+},
+"9A3A5C71-1A15-4B9E-8FEC-3D3D12ED9423":{
+"name":"delete_boarder_light"
+},
+"0B0AEB75-C382-4708-8C6C-F8F0B02B04EF":{
+"name":"molecules/tab-white-group"
+}
+}
+}
+},
+"version":119,
+"fonts":[
+"Roboto-Regular",
+"Montserrat-Bold",
+"Montserrat-SemiBold",
+"Montserrat-Medium",
+"Roboto-Medium",
+"Roboto-Bold",
+"Montserrat-Black",
+"Montserrat-Regular"
+],
+"compatibilityVersion":99,
+"app":"com.bohemiancoding.sketch3",
+"autosaved":0,
+"variant":"NONAPPSTORE",
+"created":{
+"commit":"13ee7447549da67c75f2ad3fe157bfb179c64f88",
+"appVersion":"56.2",
+"build":81672,
+"app":"com.bohemiancoding.sketch3",
+"compatibilityVersion":99,
+"version":119,
+"variant":"NONAPPSTORE"
+},
+"saveHistory":[
+"NONAPPSTORE.81672"
+],
+"appVersion":"56.2",
+"build":81672
+}
